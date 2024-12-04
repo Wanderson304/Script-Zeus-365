@@ -40,6 +40,11 @@ MENU RELATÓRIOS DO SHAREPOINT
 ![image](https://github.com/user-attachments/assets/8da996ff-3290-40b4-8980-7964827b74a5)
 <br>
 
+# Recurso para usuários
+
+[Playlist de treinamento no Yotube]() <br>
+[Discução sobre problemas e solução do Zeus 365]() <br>
+
 
 
 
