@@ -9,11 +9,11 @@ Bem-vindo ao Script Zeus 365 <br>
 O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a Strair relatórios de objetos, identidades e recursos do Microaoft 365.
 <br>
 
-# CRÉDITOS
+# Créditos
 
 [Veja quem cooperou para este projeto](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos)
 
-# RECURSOS
+# Recurso
 
 ![image](https://github.com/user-attachments/assets/b31a72e5-43d5-4347-bd35-800850d9f8a1)
 <br>
