@@ -30,8 +30,18 @@ Com a ajuda do Zeus 365 você tem uma coleção de reatórios do Microsoft 365 d
 Basta escolher o recursos e o tipo de relatório, após se conectar ao seu recuros você poderar exportar os relatórios.
 <br>
 
+MENU PRINCIPAL
+<br>
+
 ![image](https://github.com/user-attachments/assets/f4951653-621b-4446-b6e0-6ad9d2e3d896)
 <br>
+
+MENU RELATÓRIOS DO SHAREPOINT
+<br>
+
+![image](https://github.com/user-attachments/assets/8da996ff-3290-40b4-8980-7964827b74a5)
+<br>
+
 
 
 
