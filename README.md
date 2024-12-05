@@ -9,6 +9,12 @@ Bem-vindo ao Script Zeus 365 <br>
 O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365.
 <br>
 
+# Requisitos
+
+- Microsoft Excel 2016 ou Superior | com recurso de Power Query
+- PowerShell V.7 ou Superior
+- Windows 10 ou Superior
+
 # Créditos
 
 [Veja quem cooperou para este projeto](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos)
@@ -40,8 +46,9 @@ MENU RELATÓRIOS DO SHAREPOINT
 ![image](https://github.com/user-attachments/assets/8da996ff-3290-40b4-8980-7964827b74a5)
 <br>
 
-# Recurso para usuários
+# Recursos para usuários
 
+[Instalaçai Passo a Passo]() <br>
 [Playlist de treinamento no Yotube]() <br>
 [Discução sobre problemas e solução do Zeus 365]() <br>
 
