@@ -48,7 +48,7 @@ MENU RELATÓRIOS DO SHAREPOINT
 
 # Recursos para usuários
 
-[Instalaçai Passo a Passo]() <br>
+[Instalação Passo a Passo](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 [Playlist de treinamento no Yotube]() <br>
 [Discução sobre problemas e solução do Zeus 365]() <br>
 
