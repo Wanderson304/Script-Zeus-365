@@ -16,7 +16,7 @@ Bem-vindo ao Script Zeus 365 <br>
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 <br>
 
-O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365.
+O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365 de forma rápida e formatado.
 <br>
 
 # Requisitos
@@ -39,6 +39,7 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 - RELATÓRIOS DO MS365/Entra ID     
 - RELATÓRIOS DO TEAMS             
 - RELATÓRIOS GERAIS
+- DASHBOARD COM ORIENTAÇÕES PARA CADA RELATÓRIO
 
 Com a ajuda do Zeus 365 você tem uma coleção de reatórios do Microsoft 365 de forma simples e Rápida.
 Basta escolher o Modulos e o tipo de relatório. Após se conectar ao seu recuros você poderá exportar os relatórios para CSV.
