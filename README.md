@@ -11,7 +11,7 @@ ATENÇÃO: no momento o código ainda não estar aqui no GitHub <br>
 O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365.
 <br>
 
-# Requisitos
+# Requisitos `#ffffff`
 
 - Microsoft Excel 2016 ou Superior | com recurso de Power Query
 - PowerShell V.7 ou Superior
