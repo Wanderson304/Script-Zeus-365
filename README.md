@@ -3,7 +3,8 @@
 
 Bem-vindo ao Script Zeus 365 <br>
 
-- ATENÇÃO: no momento o código ainda não estar aqui no GitHub #739
+[!CAUTION]
+ATENÇÃO: no momento o código ainda não estar aqui no GitHub
 
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 <br>
