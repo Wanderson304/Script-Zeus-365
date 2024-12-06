@@ -1,10 +1,17 @@
 
 # Script Zeus 365
 
-Bem-vindo ao Script Zeus 365 <br>
+<br>
 
-[!CAUTION]
-ATENÇÃO: no momento o código ainda não estar aqui no GitHub
+> [!IMPORTANT]
+> No momento o código ainda não estar aqui no GitHub <br>
+> Até 10/12 vou colocar uma versão Beta com o Módulo do Sharepoint
+> que gera 5 relatórios.
+
+<br>
+
+
+Bem-vindo ao Script Zeus 365 <br>
 
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 <br>
