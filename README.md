@@ -42,7 +42,7 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 - DASHBOARD COM ORIENTAÇÕES PARA CADA RELATÓRIO
 
 Com a ajuda do Zeus 365 você tem uma coleção de reatórios do Microsoft 365 de forma simples e Rápida.
-Basta escolher o Modulos e o tipo de relatório. Após se conectar ao seu recuros você poderá exportar os relatórios para CSV.
+Basta escolher o Modulo e o tipo de relatório. Após se conectar nos recuros do Office 365 você poderá exportar os relatórios para CSV.
 <br>
 
 MENU PRINCIPAL
