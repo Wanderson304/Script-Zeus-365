@@ -71,7 +71,7 @@ EXEMPLO: RELATÓRIO DE LINKS EXTERNOS DO SHAREPOINT E ONEDRIVE
 
 [Instalação Passo a Passo](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 [Playlist de treinamento no Yotube]() <br>
-[Forum de Ajuda do Zeus 365]() <br>
+[Forum de Ajuda do Zeus 365](https://github.com/Wanderson304/Script-Zeus-365/issues) <br>
 
 
 
