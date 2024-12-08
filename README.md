@@ -21,7 +21,7 @@
 
 <br>
 
-O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365 de forma rápida e formatado.
+O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365 de forma rápida e formatada.
 <br>
 
 ### Requisitos
