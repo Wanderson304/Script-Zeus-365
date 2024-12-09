@@ -88,6 +88,7 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
       <br>
 
 <div align="center">
-<a href="[https://www.buymeacoffee.com/roniemartinez](https://github.com/Wanderson304/Script-Zeus-365/wiki/Me-pague-um-Caf%C3%A9)" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<a href="https://github.com/Wanderson304/Script-Zeus-365/wiki/Caf%C3%A9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <div>
