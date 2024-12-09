@@ -4,9 +4,9 @@
 <br>
 
 > [!IMPORTANT]
-> No momento o código ainda não estar aqui no GitHub <br>
-> Até 10/12 vou colocar uma versão Beta com o Módulo do Sharepoint
-> que gera 5 relatórios.
+> No momento disponibilizei apenas 4 do módulo do Sharepont <br>
+> Porém a ideia é que até 20/02/2025 eu up mias de 80 Relatórios
+
 
 <br>
 
