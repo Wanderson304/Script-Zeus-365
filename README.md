@@ -23,7 +23,7 @@
 O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microsoft 365 de forma rápida e formatada.
 <br>
 
-### Estatisticas e Metas
+### Estatísticas e Metas
 
 
 ![image](https://github.com/user-attachments/assets/3f2ceee0-b8f3-4c3c-b8cb-73059f98dd93)
