@@ -67,6 +67,11 @@ MENU RELATÓRIOS DO SHAREPOINT
 ![image](https://github.com/user-attachments/assets/8da996ff-3290-40b4-8980-7964827b74a5)
 <br>
 
+EXEMPLO: RELATÓRIO DE TODOS OS SITES DO SHAREPOINT
+
+![image](https://github.com/user-attachments/assets/f63db84a-e6f8-40d7-9029-d33b5e2264be)
+<br>
+
 EXEMPLO: RELATÓRIO DE LINKS EXTERNOS DO SHAREPOINT E ONEDRIVE
 
 ![image](https://github.com/user-attachments/assets/ede7d4b0-fe61-4b52-8c7d-8a81d34fb3ac)
