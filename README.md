@@ -16,12 +16,17 @@
   
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 
-
 </div>
 
 <br>
 
 O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. Ele ajuda a extrair relatórios de objetos, identidades e recursos do Microaoft 365 de forma rápida e formatada.
+<br>
+
+### Estatisticas e Metas
+
+
+![image](https://github.com/user-attachments/assets/3f2ceee0-b8f3-4c3c-b8cb-73059f98dd93)
 <br>
 
 ### Requisitos
