@@ -32,7 +32,7 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 
 ### Créditos
 
-[Veja quem cooperou para este projeto](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos)
+[Veja quem cooperou indiretamente para este projeto](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos)
 
 ### Recursos
 
