@@ -5,7 +5,7 @@
 
 > [!IMPORTANT]
 > No momento disponibilizei apenas 4 relatórios do módulo do Sharepont <br>
-> Porém a ideia é que até 20/02/2025 o Script tenha mais de 80 Relatórios
+> Porém a ideia é que até 20/02/2025 o Script tenha mais de 50 Relatórios
 
 
 <br>
