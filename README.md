@@ -67,6 +67,11 @@ EXEMPLO: RELATÓRIO DE LINKS EXTERNOS DO SHAREPOINT E ONEDRIVE
 ![image](https://github.com/user-attachments/assets/ede7d4b0-fe61-4b52-8c7d-8a81d34fb3ac)
 <br>
 
+EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
+
+![image](https://github.com/user-attachments/assets/c6e1572d-d3c2-4612-86de-34e7e6729c6a)
+<br>
+
 ### Recursos para usuários
 
 [Instalação Passo a Passo](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
