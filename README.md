@@ -25,8 +25,8 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 
 ### Estatísticas e Metas
 
+![image](https://github.com/user-attachments/assets/f297857c-4f3c-4d0c-9210-faae61c060f6)
 
-![image](https://github.com/user-attachments/assets/3f2ceee0-b8f3-4c3c-b8cb-73059f98dd93)
 <br>
 
 ### Requisitos
