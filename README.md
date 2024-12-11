@@ -29,6 +29,10 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 
 <br>
 
+### Módulos entregues
+
+:white_check_mark: Relatórios do Sharepoint On-line
+
 ### Requisitos
 
 - Microsoft Excel 2016 ou Superior | com recurso de Power Query
