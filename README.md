@@ -91,8 +91,8 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
 ### Recursos para usuários
 
 [VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
-[Playlist de treinamento no Yotube]() <br>
-[Forum de Ajuda do Zeus 365](https://github.com/Wanderson304/Script-Zeus-365/issues) <br>
+[PLAYLIST DE TREINAMENTO NO YOTUBE](https://www.youtube.com/watch?v=mUwqeQVyvng&list=PL6X1uOqoBPc0Um6L5r65NFr4sQ2YkvoNH) <br>
+[FÓRUM DE AJUDA ZEUS 365](https://github.com/Wanderson304/Script-Zeus-365/issues) <br>
 
 <br>
   <br>
