@@ -16,6 +16,8 @@
   
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 
+[VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
+
 </div>
 
 <br>
@@ -88,7 +90,7 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
 
 ### Recursos para usuários
 
-[Instalação Passo a Passo](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
+[VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 [Playlist de treinamento no Yotube]() <br>
 [Forum de Ajuda do Zeus 365](https://github.com/Wanderson304/Script-Zeus-365/issues) <br>
 
