@@ -18,7 +18,7 @@
 
 <code style="color : green"> Versão 1.0.1 | Atualizado em 16/12/2024 </code>
 
-[VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
+[VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 
 </div>
 
