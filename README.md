@@ -94,7 +94,7 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
 ### Recursos para usuários
 
 [VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://www.youtube.com/watch?v=H29OyZECxWw&list=PL6X1uOqoBPc0Um6L5r65NFr4sQ2YkvoNH&index=2) <br>
-[PLAYLIST DE TREINAMENTO NO YOTUBE](https://www.youtube.com/watch?v=mUwqeQVyvng&list=PL6X1uOqoBPc0Um6L5r65NFr4sQ2YkvoNH) <br>
+[PLAYLIST DE TREINAMENTO NO YOTUBE](https://www.youtube.com/watch?v=H29OyZECxWw&list=PL6X1uOqoBPc0Um6L5r65NFr4sQ2YkvoNH&index=3) <br>
 [FÓRUM DE AJUDA ZEUS 365](https://github.com/Wanderson304/Script-Zeus-365/issues) <br>
 
 <br>
