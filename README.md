@@ -73,7 +73,7 @@ MENU PRINCIPAL
 MENU RELATÓRIOS DO SHAREPOINT
 <br>
 
-![image](https://github.com/user-attachments/assets/31855705-7d9e-4651-9d5d-09ad6d25a9ff)
+![image](https://github.com/user-attachments/assets/4d6cf0f3-16d6-4d10-8e20-716ad7ba6278)
 <br>
 
 EXEMPLO: RELATÓRIO DE TODOS OS SITES DO SHAREPOINT
