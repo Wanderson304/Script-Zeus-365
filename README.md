@@ -35,7 +35,7 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 
 ### Módulos entregues
 
-:white_check_mark: Relatórios do Sharepoint On-line
+:white_check_mark: Relatórios do Sharepoint On-line <br>
 :white_check_mark: Relatórios do Exchange On-line
 
 ### Requisitos
