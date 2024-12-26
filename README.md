@@ -67,13 +67,13 @@ Basta escolher o Modulo e o tipo de relatório. Após se conectar nos recuros do
 MENU PRINCIPAL
 <br>
 
-![image](https://github.com/user-attachments/assets/f4951653-621b-4446-b6e0-6ad9d2e3d896)
+![image](https://github.com/user-attachments/assets/9e11d33a-5b93-4738-8053-4c463fb7e399)
 <br>
 
 MENU RELATÓRIOS DO SHAREPOINT
 <br>
 
-![image](https://github.com/user-attachments/assets/8da996ff-3290-40b4-8980-7964827b74a5)
+![image](https://github.com/user-attachments/assets/31855705-7d9e-4651-9d5d-09ad6d25a9ff)
 <br>
 
 EXEMPLO: RELATÓRIO DE TODOS OS SITES DO SHAREPOINT
