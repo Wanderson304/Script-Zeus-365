@@ -4,10 +4,7 @@
 <br>
 
 > [!IMPORTANT]
-> No momento disponibilizei apenas 4 relatórios do módulo do SharePoint Online <br>
-> Porém a ideia é que até 20/02/2025 o Script tenha mais de 50 Relatórios
-
-
+> No momento disponibilizei apenas 8 relatórios, Porém a ideia é que até 20/02/2025 o Script tenha mais de 30 Relatórios
 <br>
 
 <div align="center">
