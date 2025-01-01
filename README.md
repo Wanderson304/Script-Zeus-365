@@ -88,6 +88,11 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
 ![image](https://github.com/user-attachments/assets/c6e1572d-d3c2-4612-86de-34e7e6729c6a)
 <br>
 
+EXEMPLO: RELATÓRIO TODOS OS GRUPOS DO MS365
+![image](https://github.com/user-attachments/assets/590f6302-c096-40a3-831a-d0804237beea)
+<br>
+
+
 ### Recursos para usuários
 
 [VEJA AQUI O PASSO A PASSO DA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
