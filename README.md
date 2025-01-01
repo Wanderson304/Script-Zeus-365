@@ -4,7 +4,7 @@
 <br>
 
 > [!IMPORTANT]
-> No momento disponibilizei 4 Módulos com um trotal 15 relatórios, 
+> No momento disponibilizei 4 Módulos com um trotal 15 relatórios. 
 <br>
 
 <div align="center">
