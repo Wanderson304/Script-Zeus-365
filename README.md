@@ -13,7 +13,7 @@
   
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 
-<code style="color : green"> Versão 1.2.0 | Atualizado em 29/12/2024 às 03:10 AM</code>
+<code style="color : green"> Versão 1.2.1 | Atualizado em 01/01/2025 às 14:30 AM</code>
 
 [VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 
@@ -26,14 +26,17 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 
 ### Estatísticas, Entregas e Meta
 
-![image](https://github.com/user-attachments/assets/8d41f030-d5dc-4655-b43f-9f94824bdb9a)
+![image](https://github.com/user-attachments/assets/a11a0035-a41f-4d92-aeab-ec23c626eca8)
+
 
 <br>
 
 ### Módulos entregues
 
 :white_check_mark: Relatórios do Sharepoint On-line <br>
-:white_check_mark: Relatórios do Exchange On-line
+:white_check_mark: Relatórios do Exchange On-line <br>
+:white_check_mark: Relatórios do Microsoft 365 | Entra ID <br>
+:white_check_mark: Relatórios do Teams <br>
 
 ### Requisitos
 
@@ -51,11 +54,9 @@ O Script **Zeus 365** facilita o dia a dia do Administrador do Microsoft 365. El
 <br>
 
 - RELATÓRIOS DO SHAREPOINT            
-- RELATÓRIOS DO EXCHANGE ON-LINE   
-- RELATÓRIOS DO MS365/Entra ID     
-- RELATÓRIOS DO TEAMS             
-- RELATÓRIOS GERAIS
-- DASHBOARD COM ORIENTAÇÕES PARA CADA RELATÓRIO
+- RELATÓRIOS DO EXCHANGE ON-LINE       
+- RELATÓRIOS DO TEAMS
+- RELATÓRIOS DO MS365/Entra ID              
 
 Com a ajuda do Zeus 365 você tem uma coleção de relatórios do Microsoft 365 de forma simples e Rápida.
 Basta escolher o Modulo e o tipo de relatório. Após se conectar nos recuros do Office 365 você poderá exportar os relatórios para CSV e ainda gerar um Dashboard automático.
@@ -64,13 +65,19 @@ Basta escolher o Modulo e o tipo de relatório. Após se conectar nos recuros do
 MENU PRINCIPAL
 <br>
 
-![image](https://github.com/user-attachments/assets/9e11d33a-5b93-4738-8053-4c463fb7e399)
+![image](https://github.com/user-attachments/assets/8546b3bd-ddc6-4e88-a082-a1b5455ede33)
 <br>
 
 MENU RELATÓRIOS DO SHAREPOINT
 <br>
 
-![image](https://github.com/user-attachments/assets/4d6cf0f3-16d6-4d10-8e20-716ad7ba6278)
+![image](https://github.com/user-attachments/assets/eb47dd5b-8618-41df-bb3c-9b7fb3e47dcb)
+<br>
+
+MENU RELATÓRIOS DO MS365 | ENTRA ID
+<br>
+
+![image](https://github.com/user-attachments/assets/74385d21-ace6-4bf9-985b-fe3c36baec8f)
 <br>
 
 EXEMPLO: RELATÓRIO DE TODOS OS SITES DO SHAREPOINT
