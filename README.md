@@ -89,7 +89,7 @@ EXEMPLO: RELATÓRIO DE SITES COM ACESSO EXTERNO ATIVADO
 <br>
 
 EXEMPLO: RELATÓRIO TODOS OS GRUPOS DO MS365
-![image](https://github.com/user-attachments/assets/1bc4b9c9-c2b9-47e4-b460-a463dd9d864e)
+![image](https://github.com/user-attachments/assets/047a2273-31cd-4e2c-b4a7-50303fc51946)
 <br>
 
 
