@@ -13,7 +13,8 @@
   
 ![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
 
-<code style="color : green"> Versão 1.2.1 | Atualizado em 01/01/2025 às 16:42 AM</code>
+<code style="color : green"> Versão 1.2.1 - Fix-IT | Atualizado em 04/01/2025 às 16:40 AM</code>
+Obs: Correção do Banner da tela inicial  
 
 [VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
 
