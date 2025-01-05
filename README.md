@@ -11,7 +11,8 @@
 
 ### Bem-vindo ao Script Zeus 365 ! <br>
   
-![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0)
+![Zeus6](https://github.com/user-attachments/assets/25c417dc-6545-4691-baaa-b46f2054c9e0) <br>
+[CRÉDITOS](https://github.com/Wanderson304/Script-Zeus-365/wiki/Cr%C3%A9ditos) <br>
 
 <code style="color : green"> Versão 1.2.1 - Fix-IT | Atualizado em 04/01/2025 às 16:40 AM</code> <br>
 OBS: Correção do Banner da tela inicial  
