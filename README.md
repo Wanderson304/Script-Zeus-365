@@ -4,7 +4,7 @@
 <br>
 
 > [!IMPORTANT]
-> No momento disponibilizamos 4 Módulos com um total 15 relatórios. 
+> MICROSOFT DESCONTINUOU O GERECIMANENTO DO OFFICE 365 USANDO O MODULO MS OLINE QUE USA POWERSHELL. ESTAMOS MIGRANDO O SCRIPT PARA MS GRAPH. 
 <br>
 
 <div align="center">
@@ -17,8 +17,6 @@
 <code style="color : green"> Versão 1.2.1 - Fix-IT | Atualizado em 04/01/2025 às 16:40 AM</code> <br> 
 
 [VEJA AQUI O PASSO A PASSO PARA INSTALAÇÃO](https://github.com/Wanderson304/Script-Zeus-365/wiki/Instala%C3%A7%C3%A3o) <br>
-
-ATENÇÃO: A MICROAOFT DESCONTINUOU O GERECIMANENTO DO OFFICE 365 USANDO O MODULO MS OLINE QUE USA POWERSHELL. ESTAMOS MIGRANDO O SCRIPT PARA MS GRAPH
 
 </div>
 
